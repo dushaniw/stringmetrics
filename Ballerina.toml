@@ -1,0 +1,7 @@
+[project]
+org-name = "Dushani"
+version = "0.5"
+authors = ["Dushani"]
+repository = "https://github.com/dushaniw/string-metrics"
+keywords = ["string metrics", "hamming", "levenshtein", "string distance"]
+license = "Apache-2.0"
